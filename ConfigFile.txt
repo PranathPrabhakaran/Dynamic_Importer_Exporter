@@ -1,0 +1,18 @@
+Model
+----------------------------------
+id 					:: String
+description 		:: String
+price				:: String
+cost				:: String
+price_type			:: String
+quantity_on_hand	:: String
+modifier			::Array{name,price}
+
+Export
+----------------------------------
+D:\Career\ShopKeepPOS Programming Exercise\input.csv
+
+
+Import
+----------------------------------
+D:\Career\ShopKeepPOS Programming Exercise\output1.json
